@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 sfddfsdfd
 
 Barlus Adelina vonc es
+=======
+sfddfsdfddefghjdfghj
+>>>>>>> e631ccf76f5aee09269a2d37534f081a3fbc0bd6
+
+Adelina
